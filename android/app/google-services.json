@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19681294972",
+    "project_id": "familyhealthmanager",
+    "storage_bucket": "familyhealthmanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19681294972:android:a06bb4768efe8fb975e7f9",
+        "android_client_info": {
+          "package_name": "com.example.family_health_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19681294972-1si1c99438lljub7tcv4iiv0v52hgj7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXUXctUP1c8CNIQ6HEoUgnfmNNIDH7b34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19681294972-1si1c99438lljub7tcv4iiv0v52hgj7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
